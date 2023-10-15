@@ -42,6 +42,8 @@ body {
 /* Cards */
 .card {
     margin-bottom: 10px;
+    border: black solid 2px;
+    background-color: #c2babad5 !important;
 }
 
 .aboutme, .projects {
@@ -57,10 +59,25 @@ body {
     font-size: 20px;
 }
 
-/* Projects */
+/* Buttons */
+.btn-primary {
+    background-color: rgba(50, 136, 194, 0.7);
+    border-color: black;
+    border: 2px solid;
+    color: black;
+}
 
+/* Projects */
 
 .horiseon h5 a{
     text-decoration: none;
     color: black;
+}
+
+/* Footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
