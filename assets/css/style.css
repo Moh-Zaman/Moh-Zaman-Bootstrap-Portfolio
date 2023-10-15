@@ -44,12 +44,23 @@ body {
     margin-bottom: 10px;
 }
 
-/* About Me */
-.aboutme {
+.aboutme, .projects {
     font-size: 40px;
     font-weight: bold;
 }
 
-.aboutme-text {
+.card-title {
+    font-size: 30px;
+}
+
+.card-text {
     font-size: 20px;
+}
+
+/* Projects */
+
+
+.horiseon h5 a{
+    text-decoration: none;
+    color: black;
 }
