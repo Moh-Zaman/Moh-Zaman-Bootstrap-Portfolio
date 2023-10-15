@@ -4,7 +4,52 @@
     margin: 0;
   }
 
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #4f4e52;
+    margin: 8px;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #4f4e52 !important;
+}
+
+.navbar-brand, .nav-link {
+    color: rgba(50, 136, 194, 0.7) !important;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Hero Banner */
 .hero {
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+}
+
+/* Cards */
+.card {
+    margin-bottom: 10px;
+}
+
+/* About Me */
+.aboutme {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.aboutme-text {
+    font-size: 20px;
 }
