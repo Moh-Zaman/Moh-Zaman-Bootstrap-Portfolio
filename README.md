@@ -20,6 +20,8 @@ The website can be accessed here: https://moh-zaman.github.io/Moh-Zaman-Bootstra
 
 I utilised Bootstrap in order to achieve this outcome. My personalised touch was added through my CSS style sheet but the majority has been taken from the bootstrap documentation.
 
+Bootstrap documentation can be found and explored here: https://getbootstrap.com
+
 ## License
 
 MIT License provided in repo
