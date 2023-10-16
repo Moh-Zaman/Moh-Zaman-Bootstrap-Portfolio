@@ -46,7 +46,7 @@ body {
     background-color: #c2babad5 !important;
 }
 
-.aboutme, .projects {
+.aboutme, .projects, .objectives, .contact {
     font-size: 40px;
     font-weight: bold;
 }
@@ -73,6 +73,9 @@ body {
     text-decoration: none;
     color: black;
 }
+
+/* Leanring Objectives */
+
 
 /* Footer */
 footer {
