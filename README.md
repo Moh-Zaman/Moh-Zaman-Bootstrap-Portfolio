@@ -12,9 +12,9 @@ You can also see my previous portfolio which had no bootstrap included. I also m
 
 Access the delpoyed website which should bring you to this landing page with the hero banner.
 
-The website can be accessed here: 
+The website can be accessed here: https://moh-zaman.github.io/Moh-Zaman-Bootstrap-Portfolio/
  
-![Landing Page of Protfolio]()
+![Landing Page of Protfolio](https://github.com/Moh-Zaman/Moh-Zaman-Bootstrap-Portfolio/blob/main/assets/images/Hero-Page.png)
     
 ## License
 
